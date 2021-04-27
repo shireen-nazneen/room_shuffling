@@ -1,0 +1,104 @@
+{
+   "student": [
+      {
+         "name": "shireen",
+         "room_no": 1,
+         "Bed": 1
+      },
+      {
+         "name": "kamini",
+         "room_no": 1,
+         "Bed": 2
+      },
+      {
+         "name": "kumar",
+         "room_no": 1,
+         "Bed": 3
+      },
+      {
+         "name": "jyoti",
+         "room_no": 1,
+         "Bed": 4
+      },
+      {
+         "name": "rupali",
+         "room_no": 1,
+         "Bed": 5
+      },
+      {
+         "name": "navya",
+         "room_no": 1,
+         "Bed": 6
+      },
+      {
+         "name": "puja",
+         "room_no": 1,
+         "Bed": 7
+      },
+      {
+         "name": "jyoti2",
+         "room_no": 1,
+         "Bed": 8
+      },
+      {
+         "name": "laxmi",
+         "room_no": 1,
+         "Bed": 9
+      },
+      {
+         "name": "angel",
+         "room_no": 1,
+         "Bed": 10
+      },
+      {
+         "name": "anjali",
+         "room_no": 2,
+         "Bed": 1
+      },
+      {
+         "name": "himani",
+         "room_no": 2,
+         "Bed": 2
+      },
+      {
+         "name": "shital",
+         "room_no": 2,
+         "Bed": 3
+      },
+      {
+         "name": "pragu",
+         "room_no": 2,
+         "Bed": 4
+      },
+      {
+         "name": "radihka",
+         "room_no": 2,
+         "Bed": 5
+      },
+      {
+         "name": "sudha",
+         "room_no": 2,
+         "Bed": 6
+      },
+      {
+         "name": "ruchi",
+         "room_no": 2,
+         "Bed": 7
+      },
+      {
+         "name": "preeti",
+         "room_no": 2,
+         "Bed": 8
+      },
+      {
+         "name": "ashivini",
+         "room_no": 2,
+         "Bed": 9
+      },
+      {
+         "name": "kitty",
+         "room_no": 2,
+         "Bed": 10
+      }
+   ]
+}
